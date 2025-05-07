@@ -43,23 +43,11 @@ This project showcases essential machine learning concepts through three hands-o
 
 ## 📁 Repo Structure
 
-ml-from-scratch-and-beyond/
-├── Principal_Component_Analysis.ipynb
-├── Neural_Networks.ipynb
-├── Classification_Model.ipynb
+ml-from-scratch-and-beyond/  
+├── Principal_Component_Analysis.ipynb  
+├── Neural_Networks.ipynb  
+├── Classification_Model.ipynb  
 └── README.md
-
-yaml
-Copy
-Edit
-
----
-
-## 👨‍💻 About the Author
-
-**[Your Name]**  
-Aspiring Machine Learning Engineer | Passionate about clean, understandable ML code  
-[LinkedIn](https://www.linkedin.com/) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your.email@example.com)
 
 ---
 
@@ -70,6 +58,3 @@ This repo was created to:
 - Reinforce theory through implementation
 - Serve as a showcase for employers and collaborators
 
----
-
-⭐ **If you found this interesting, feel free to star the repo!**
